@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at **Obey International Pvt**
 
-- 🌱 I’m currently learning **.Net and Flutter Animation**
-
 - 💬 Ask me about **Dart ,Flutter,Firebase, SQFlite,GetX,,Firebase Authentication,Cloud Firestore,Git,Publishing to Google Play Store and Apple App Store,MVC & Razorpay (Payment Gateway), Google Integration (Maps & Phone Number)**
 
 - 📫 How to reach me **bijuabhishek530@gmail.com**
